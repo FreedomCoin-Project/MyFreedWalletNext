@@ -6,7 +6,7 @@ import {
     vaults as rawVaults,
     Wallet,
 } from '../wallet.js';
-import { ref, computed, watch, reactive } from 'vue';
+import { ref, computed, reactive } from 'vue';
 import { fPublicMode, strCurrency } from '../settings.js';
 import { cOracle } from '../prices.js';
 import { LedgerController } from '../ledger.js';
