@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://mypivxwallet.org/">Production</a> (Stable) | <a href="https://cheery-moxie-4f1121.netlify.app/">Bleeding-Edge</a> (Unstable)
+  <a href="https://wallet.freedomcoin.global/">Production</a> (Stable) | <a href="https://freedomcoin.global/test/mfw">Bleeding-Edge</a> (Unstable)
 </p>
 
 ---
@@ -51,7 +51,7 @@ Alongside total codebase availability, MPW allows you to totally bunker-down, wi
 
 ### By the Community, for the Community
 
-MPW is built with love by [PIVX Labs](https://github.com/PIVX-Labs), a micro-DAO of [awesome people](https://github.com/PIVX-Labs/MyPIVXWallet/graphs/contributors) that build both FOSS and Proprietary software for the PIVX community to enjoy.
+MPW is built with love by [PIVX Labs](https://github.com/PIVX-Labs), a micro-DAO of [awesome people](https://github.com/FreedomCoin-Project/MyFreedWalletNext/graphs/contributors) that build both FOSS and Proprietary software for the PIVX community to enjoy.
 
 The mission of PIVX Labs is to accelerate the adoption & growth of PIVX as a currency, using awesomeness. Join the [PIVX Labs Discord](https://discord.gg/v57eCP4MMx) to meet us!
 

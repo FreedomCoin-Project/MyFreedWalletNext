@@ -1,5 +1,5 @@
 {
-    "name": "mypivxwallet",
+    "name": "MyFREEDWallet",
     "version": "2.1.2",
     "description": "Wallet for PIVX",
     "main": "scripts/index.js",
@@ -23,7 +23,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/PIVX-Labs/MyPIVXWallet.git"
+        "url": "git+https://github.com/FreedomCoin-Project/MyFreedWalletNext.git"
     },
     "keywords": [
         "crypto",
@@ -33,9 +33,9 @@
     "author": "PIVX Labs",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/PIVX-Labs/MyPIVXWallet/issues"
+        "url": "https://github.com/FreedomCoin-Project/MyFreedWalletNext/issues"
     },
-    "homepage": "https://github.com/PIVX-Labs/MyPIVXWallet#readme",
+    "homepage": "https://github.com/FreedomCoin-Project/MyFreedWalletNext#readme",
     "devDependencies": {
         "@fluent/langneg": "^0.7.0",
         "@oreillymedia/cypress-playback": "^3.0.9",
