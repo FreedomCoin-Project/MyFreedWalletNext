@@ -1,7 +1,7 @@
 {
     "name": "MyFREEDWallet",
     "version": "2.1.2",
-    "description": "Wallet for PIVX",
+    "description": "Wallet for FreedomCoin",
     "main": "scripts/index.js",
     "type": "module",
     "scripts": {
@@ -27,7 +27,7 @@
     },
     "keywords": [
         "crypto",
-        "PIVX",
+        "FreedomCoin",
         "wallet"
     ],
     "author": "PIVX Labs",
