@@ -179,7 +179,12 @@ progress[value]::-moz-progress-bar {
 .nav-logo {
     display: inline;
     vertical-align: middle;
-    width: 150px;
+    width: 40px;
+}
+
+.navbar-brand-text {
+    font-size: 1.2rem;
+    font-weight: 600;
 }
 
 .nav-link {
