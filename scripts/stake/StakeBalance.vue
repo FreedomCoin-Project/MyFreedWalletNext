@@ -10,7 +10,7 @@ import { beautifyNumber } from '../misc';
 import { renderWalletBreakdown } from '../charting.js';
 
 import pLogo from '../../assets/p_logo.svg';
-import logo from '../../assets/pivx.png';
+import logo from '../../assets/freed.png';
 
 const { createAlert } = useAlerts();
 const coldStakingAddress = defineModel('coldStakingAddress');

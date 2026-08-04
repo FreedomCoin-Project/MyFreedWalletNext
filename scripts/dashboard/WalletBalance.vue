@@ -16,7 +16,7 @@ import iShieldLock from '../../assets/icons/icon_shield_lock_locked.svg';
 import iShieldLogo from '../../assets/icons/icon_shield_pivx.svg';
 import iHourglass from '../../assets/icons/icon-hourglass.svg';
 import pLogo from '../../assets/p_logo.svg';
-import logo from '../../assets/pivx.png';
+import logo from '../../assets/freed.png';
 
 import pLocked from '../../assets/icons/icon-lock-locked.svg';
 import pUnlocked from '../../assets/icons/icon-lock-unlocked.svg';
