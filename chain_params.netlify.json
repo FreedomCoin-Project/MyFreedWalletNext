@@ -8,7 +8,7 @@
         "STAKING_PREFIX": "S",
         "PUBKEY_ADDRESS": [66],
         "EXCHANGE_ADDRESS_PREFIX": [1, 185, 162],
-        "STAKING_ADDRESS": [63],
+        "STAKING_ADDRESS": [127],
         "SECRET_KEY": 156,
         "BIP44_TYPE": 119,
         "BIP44_TYPE_LEDGER": 77,
