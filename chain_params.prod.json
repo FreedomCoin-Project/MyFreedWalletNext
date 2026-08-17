@@ -18,7 +18,9 @@
         "Explorers": [
             { "name": "FreedomCoin", "url": "https://chain.freedomcoin.global" }
         ],
-        "Nodes": [ ],
+        "Nodes": [
+            { "name": "FreedomCoin", "url": "https://chain.freedomcoin.global/mainnet" }
+        ],
         "Consensus": {},
         "coinbaseMaturity": 100,
         "budgetCycleBlocks": 43200,
