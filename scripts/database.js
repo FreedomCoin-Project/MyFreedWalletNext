@@ -628,7 +628,7 @@ export class Database {
         const store = this.#db
             .transaction('shieldSyncData', 'readonly')
             .objectStore('shieldSyncData');
-        const lastSyncedBlock = (await store.get('lastSyncedBlock')) ?? 4190531;
+        const lastSyncedBlock = (await store.get('lastSyncedBlock')) ?? 3600000;
         const shieldData =
             (await store.get('shieldData')) ?? new Uint8Array([]);
         return {

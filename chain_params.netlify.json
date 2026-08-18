@@ -30,7 +30,7 @@
         "maxPayment": 43200000000000,
         "defaultColdStakingAddress": "SdgQDpS8jDRJDX8yK8m9KnTMarsE84zdsy",
         "stakeSplitTarget": 50000000000,
-        "defaultStartingShieldBlock": 4190531
+        "defaultStartingShieldBlock": 3600000
     },
     "testnet": {
         "name": "testnet",
