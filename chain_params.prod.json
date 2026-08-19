@@ -31,7 +31,8 @@
         "defaultColdStakingAddress": "SdgQDpS8jDRJDX8yK8m9KnTMarsE84zdsy",
         "stakeSplitTarget": 50000000000,
         "mnReward": 600000000,
-        "defaultStartingShieldBlock": 3600000
+        "defaultStartingShieldBlock": 3600000,
+        "shieldEnabled": false
     },
     "testnet": {
         "name": "testnet",

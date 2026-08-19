@@ -294,6 +294,14 @@ export class Wallet {
     }
 
     hasShield() {
+        // Shield is disabled until FreedomCoin Core's "v5 shield" upgrade
+        // activates. The pivx-shield WASM library ships with PIVX's own
+        // hardcoded Sapling checkpoints (e.g. block 4190531), which don't
+        // exist on FreedomCoin's chain - causing out-of-range getblockhash
+        // requests and an endless "Bad sapling root" resync loop. Once Core
+        // activates shield AND the shield library is rebuilt with
+        // FreedomCoin's own checkpoints, flip shieldEnabled to true.
+        if (cChainParams.current.shieldEnabled === false) return false;
         return !!this.#shield;
     }
 
